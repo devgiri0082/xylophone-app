@@ -1,5 +1,3 @@
-import { useState } from "react";
-
 export default function App(props) {
     let sounds = ["bvng.mp3", "crfo.mp3", "dtse.mp3", "edqt.mp3", "ldcc.mp3", "peoi.mp3", "tena.mp3", "udgb.mp3"]
     return (
